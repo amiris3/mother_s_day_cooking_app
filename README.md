@@ -13,7 +13,7 @@ Also my first ever Flutter app.
 
 
 ## ScreenShots
-
+<img src="assets/Screenshot_homescreen.jpg" height = 400> <img src="assets/Screenshot_chooserecipescreen.jpg" height = 400> <img src="assets/Screenshot_recipedetails.jpg" height = 400>
 
 ## Dependencies and Flutter packages
 | Name | Usage |
@@ -24,7 +24,7 @@ Also my first ever Flutter app.
 
 ## Code organization
 - Models: Recipe class and list of recipes (with data) declaration
-- Screens: all screens: HomeScreen, ChooseRecipeScreen and RecipeDetails
+- Screens: all screens [ HomeScreen, ChooseRecipeScreen and RecipeDetails ]
 - Widgets: the recipes list
 
 
